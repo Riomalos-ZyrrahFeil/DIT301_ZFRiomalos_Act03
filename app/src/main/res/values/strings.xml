@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="user_full_name">Zyrrah Feil C. Riomalos</string>
+    <string name="user_bio_text">Junior Android Developer focused on creating ethical, usable, and accessible mobile experiences.</string>
+    <string name="edit_button_text">Edit Profile</string>
+    <string name="profile_picture_content_desc">Users current profile picture</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProfileNameTextAppearance" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="ProfileBioTextAppearance" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/secondary_text_color</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:lineSpacingExtra">4dp</item> </style>
+
+    <style name="ProfileEditButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/button_background_color</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:paddingStart">32dp</item>
+        <item name="android:paddingEnd">32dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+    </style>
+</resources>
